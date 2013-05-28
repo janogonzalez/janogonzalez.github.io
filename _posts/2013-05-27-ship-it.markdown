@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "Ship It!"
+date:   2013-05-27 21:00:00
+tags: thoughts
+---
+
+I decided to use [Jekyll][jekyll] for my website again, mostly because I love
+writing [Markdown][markdown] on [Vim][vim]. But instead of thinking about
+a good CSS layout I just started using the default template that's quite
+decent. I think that's always better to publish something without bugs that you
+can improve later than waiting for the perfect version.
+
+[jekyll]:    http://jekyllrb.com
+[markdown]:    http://daringfireball.net/projects/markdown/
+[vim]:    http://www.vim.org
