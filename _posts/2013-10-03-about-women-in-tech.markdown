@@ -10,13 +10,13 @@ have a clue about how it feels to be a woman in tech. Actually we don't have a
 clue about how it feels to be a woman. Period.
 
 One of my best friends is a great developer and team leader and she always have
-to deal with the issue of people don't trusting her technical skill when they
+to deal with the issue of people don't trusting her technical skills when they
 first met her. It's like if in our field women need to do extra effort to be
 recognized as valuable members of a team.
 
 An of course there is the problem that almost **every women** I have met in my
 life has dealt with a stalker, feeling threatened by groups of men yelling
-nasty stuff to them, having her ass grabed dy a random stranger in the street
+nasty stuff to them, having her ass grabbed dy a random stranger in the street
 or being assaulted in even more horrifying ways.
 
 While I can empathize with that I really **don't know** how it feels to be a
@@ -27,11 +27,11 @@ don't want to raise a daughter (or son) in a world where all rules for women
 are created by men, where people count her number of sexual partners to judge
 if she is a "slut" or not, where she can't dress as the way she wants for fear
 of being assaulted or again being called a slut, where she needs to double the
-efforts to be noticed as a good professional, where people would blame her if
+efforts to be noticed as a good professional or where people would blame her if
 she is assaulted by a man.
 
 So what can we do to improve this as men? first of all we need to **shup the
-fuck up** and start listening what women have to say, maybe we can learn a
+fuck up** and start listening to what women have to say, maybe we can learn a
 thing or two.
 
 To finish I want to say thank you to people like
