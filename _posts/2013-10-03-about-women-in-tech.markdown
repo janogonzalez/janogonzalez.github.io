@@ -34,7 +34,7 @@ So what can we do to improve this as men? first of all we need to **shup the
 fuck up** and start listening what women have to say, maybe we can learn a
 thing or two.
 
-To finish I want to say thank you people like
+To finish I want to say thank you to people like
 [Ashe Dryden](https://twitter.com/ashedryden) and
 [Shanley Kane](https://twitter.com/shanley) who
 have raised awareness about the lack of diversity in our field.
