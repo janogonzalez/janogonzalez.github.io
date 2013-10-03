@@ -16,7 +16,7 @@ recognized as valuable members of a team.
 
 An of course there is the problem that almost **every women** I have met in my
 life has dealt with a stalker, feeling threatened by groups of men yelling
-nasty stuff to them, having her ass grabbed dy a random stranger in the street
+nasty stuff to them, having her ass grabbed by a random stranger in the street
 or being assaulted in even more horrifying ways.
 
 While I can empathize with that I really **don't know** how it feels to be a
