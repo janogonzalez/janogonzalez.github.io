@@ -15,7 +15,7 @@ html, body { height: 100%; }
 body {
   background-color: #FFF;
   color: #333;
-  font: 18px "Georgia", "Times New Roman", serif;
+  font: 18px "Buenard", "Georgia", "Times New Roman", serif;
   font-size: small;
   text-align: center;
 }
@@ -60,11 +60,11 @@ ul.posts span {
 /*****************************************************************************/
 
 .site {
-  font-size: 135%;
+  font-size: 155%;
   text-align: justify;
-  width: 38em;
+  width: 33em;
   margin: 0.6em auto 2em;
-  line-height: 1.5em;
+  line-height: 1.4em;
 }
 
 header {
@@ -111,7 +111,7 @@ footer {
 
 #post h1 {
   font-size: 235%;
-  margin-bottom: 0.5em;
+  margin-bottom: 0.3em;
 }
 
 #post p {
