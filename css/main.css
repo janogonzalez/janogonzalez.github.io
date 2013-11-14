@@ -22,7 +22,7 @@ body {
 
 h1, h2, h3, h4, h5, h6 { font-size: 100%; }
 
-h1 { margin-bottom: 1em; }
+h1 { margin-bottom: 0.6em; }
 p { margin: 1em 0; }
 
 a:link { color: #ee106f; }
@@ -50,7 +50,7 @@ ul.posts li {
 }
 
 ul.posts span {
-  color: #aaa;
+  color: #666;
 }
 
 /*****************************************************************************/
@@ -60,11 +60,16 @@ ul.posts span {
 /*****************************************************************************/
 
 .site {
-  font-size: 115%;
+  font-size: 135%;
   text-align: justify;
-  width: 42em;
-  margin: 3em auto 2em;
+  width: 38em;
+  margin: 0.6em auto 2em;
   line-height: 1.5em;
+}
+
+header {
+  border-bottom: 1px dotted #ddd;
+  margin-bottom: 2em;
 }
 
 header a {
@@ -84,7 +89,6 @@ header a:hover {
 header h1.title {
   font-size: 135%;
   display: inline-block;
-  margin-bottom: 2em;
 }
 
 .site .meta {
@@ -94,7 +98,7 @@ header h1.title {
 footer {
   font-size: 80%;
   color: #666;
-  border-top: 1px solid #ddd;
+  border-top: 1px dotted #ddd;
   margin-top: 2em;
   overflow: hidden;
 }
