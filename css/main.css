@@ -46,7 +46,7 @@ ul.posts {
 }
 
 ul.posts li {
-  line-height: 1.75em;
+  line-height: 1.55em;
 }
 
 ul.posts span {
@@ -92,7 +92,7 @@ header h1.title {
 }
 
 .site .meta {
-  color: #aaa;
+  color: #666;
 }
 
 footer {
