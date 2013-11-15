@@ -62,14 +62,15 @@ ul.posts span {
 .site {
   font-size: 155%;
   text-align: justify;
-  width: 33em;
+  width: 95%;
+  max-width: 33em;
   margin: 0.6em auto 2em;
   line-height: 1.4em;
 }
 
 header {
   border-bottom: 1px dotted #ddd;
-  margin-bottom: 2em;
+  margin-bottom: 1.6em;
 }
 
 header a {
@@ -101,6 +102,7 @@ footer {
   border-top: 1px dotted #ddd;
   margin-top: 2em;
   overflow: hidden;
+  text-align: left;
 }
 
 /*****************************************************************************/
@@ -112,10 +114,15 @@ footer {
 #post h1 {
   font-size: 235%;
   margin-bottom: 0.3em;
+  line-height: 1em;
 }
 
 #post p {
   text-align: left;
+}
+
+#post .meta {
+  margin: 0.7em 0;
 }
 
 /* standard */
