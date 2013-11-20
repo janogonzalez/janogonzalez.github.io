@@ -31,7 +31,7 @@ tasks so **I use Vim because it is fun**.
 So, should every programmer use Vim because is the one and true text editor?
 **No!** Should every programmer try Vim to see if it's the best tool for
 their job? **Yes!** Tools are merely tools, what's really important is what we
-do with them. There _best tool_ doesn't exist, what exists is the best tool for
+do with them. The _best tool_ doesn't exist, what exists is the best tool for
 _you_ to do _some job_.
 
 In fact, even when I want to learn the 99% of the things I still don't know how
