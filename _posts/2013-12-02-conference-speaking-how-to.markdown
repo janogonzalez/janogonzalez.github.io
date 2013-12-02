@@ -27,10 +27,10 @@ The best way to get your first talk accepted is to send proposals to a lot of
 conferences. I use [lanyrd](http://lanyrd.com) to find conferences with open
 CFPs.
 
-[RubyConf Uruguay 2011](rubyconfuy) was the first conference outside Chile I
-applied to. I sent my proposal without any hopes to get accepted, but
-surprinsingly they liked it. Remember that a great number of conferences are
-willing to give you your first chance to speak.
+[RubyConf Uruguay 2011](http://rubyconfuruguay.org) was the first conference
+outside Chile I applied to. I sent my proposal without any hopes to get
+accepted, but surprinsingly they liked it. Remember that a great number of
+conferences are willing to give you your first chance to speak.
 
 Regarding to the proposal itself I don't have too much tips to share, I still
 have to improve a lot in that aspect. Just try to be clear about how the talk
