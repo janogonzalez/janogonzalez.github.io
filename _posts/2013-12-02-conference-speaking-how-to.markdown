@@ -78,7 +78,7 @@ about a subject they tend to speak too quickly.
 Make good use of your presentation software. In the presenter screen I always
 have the timer of how much time I have left, the current slide and the next
 slide. In the last conference I spoke, I made the mistake of speaking to much
-in the first slide forgetint that the timer starts when you pass to the second
+in the first slide forgeting that the timer starts when you pass to the second
 slide, to avoid that mistake many people suggest to put a blank slide first or
 to repeat the first slide and inmediately switch to the next to start the
 timer.
