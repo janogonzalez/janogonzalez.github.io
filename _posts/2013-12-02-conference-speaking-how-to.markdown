@@ -63,7 +63,7 @@ contrast.
 **Be respectful**: Remember that the audience and the organizers have invested
 time and money, rehearse your talk to deliver the content the best way possible
 in the given time slot and don't include offensive things in your slides (e.g.
-sexists jokes).
+sexist jokes).
 
 ## Speak
 
