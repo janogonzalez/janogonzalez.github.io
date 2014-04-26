@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "About women in tech 2"
-date: 2015-04-26 20:00:00
+date: 2014-04-26 20:00:00
 tags: thoughts
 ---
 
