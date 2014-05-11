@@ -14,16 +14,19 @@ html, body { height: 100%; }
 
 body {
   background-color: #FFF;
-  color: #333;
+  color: #444;
   font: 18px "Buenard", "Georgia", "Times New Roman", serif;
   font-size: small;
   text-align: center;
 }
 
-h1, h2, h3, h4, h5, h6 { font-size: 100%; }
+h1, h2, h3, h4, h5, h6 {
+  color: #222;
+  font-size: 100%;
+}
 
 h1 { margin-bottom: 0.6em; }
-p { margin: 1em 0; }
+p { margin: 0.7em 0; }
 
 a:link { color: #ee106f; }
 a:visited { color: #ee106f; }
@@ -84,7 +87,7 @@ header a.extra {
 }
 
 header a:hover {
-  color: #333;
+  color: #444;
 }
 
 header h1.title {
@@ -112,7 +115,7 @@ footer {
 /*****************************************************************************/
 
 #post h1 {
-  font-size: 235%;
+  font-size: 205%;
   margin-bottom: 0.3em;
   line-height: 1em;
   text-align: left;
@@ -132,6 +135,7 @@ footer {
 
 #post p {
   text-align: left;
+  line-height: 1.2em;
 }
 
 #post .meta {
@@ -162,7 +166,7 @@ footer {
 /* terminal */
 #post pre.terminal {
   border: 1px solid #000;
-  background-color: #333;
+  background-color: #444;
   color: #FFF;
 }
 
