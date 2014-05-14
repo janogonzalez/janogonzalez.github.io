@@ -73,6 +73,8 @@ ul.posts span {
   line-height: 1.4em;
 }
 
+.site li { line-height: 1.5em; }
+
 header {
   border-bottom: 1px dotted #ddd;
   margin-bottom: 1.6em;
