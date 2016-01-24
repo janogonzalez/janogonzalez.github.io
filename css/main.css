@@ -101,6 +101,10 @@ footer {
 
 /* Posts */
 
+#post {
+  padding-top: 0.5em;
+}
+
 #post h1, #home h1 {
   font-size: 205%;
   margin-bottom: 0.3em;
