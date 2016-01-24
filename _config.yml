@@ -1,2 +1,4 @@
 name: Jano González
 markdown: kramdown
+gems:
+  - jekyll-sitemap
