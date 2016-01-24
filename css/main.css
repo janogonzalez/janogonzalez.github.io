@@ -10,7 +10,7 @@ html, body { height: 100%; }
 body {
   background-color: #FFF;
   color: #444;
-  font: 18px "Cardo", "Georgia", "Times New Roman", serif;
+  font: 18px "Georgia", "Times New Roman", serif;
   font-size: small;
   text-align: center;
 }
@@ -20,7 +20,6 @@ h1, h2, h3, h4, h5, h6 {
   font-size: 100%;
 }
 
-h1 { margin-bottom: 0.6em; }
 p { margin: 0.7em 0; }
 
 a:link { color: #ee106f; }
@@ -56,7 +55,7 @@ ul.posts span {
   text-align: justify;
   width: 95%;
   max-width: 33em;
-  margin: 0.6em auto 2em;
+  margin: 1em auto 1em;
   line-height: 1.4em;
 }
 
@@ -64,7 +63,8 @@ ul.posts span {
 
 header {
   border-bottom: 1px dotted #ddd;
-  margin-bottom: 1.6em;
+  margin-bottom: 0.5em;
+  padding-bottom: 0.5em;
 }
 
 header a {
@@ -82,7 +82,7 @@ header a:hover {
 }
 
 header h1.title {
-  font-size: 135%;
+  font-size: 160%;
   display: inline-block;
 }
 
@@ -94,7 +94,7 @@ footer {
   font-size: 80%;
   color: #666;
   border-top: 1px dotted #ddd;
-  margin-top: 2em;
+  margin-top: 0.5em;
   overflow: hidden;
   text-align: left;
 }
