@@ -84,6 +84,7 @@ header a:hover {
 header h1.title {
   font-size: 160%;
   display: inline-block;
+  font-family: "Lucida Grande", "Lucida Sans Unicode", "Bitstream Vera Sans",sans-serif;
 }
 
 .site .meta {
