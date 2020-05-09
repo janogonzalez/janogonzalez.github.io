@@ -12,8 +12,12 @@ title: Jano González
   <h1>Posts</h1>
 
   <ul class="posts">
-    {% for post in site.posts %}
-      <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+    {% assign posts_by_year = site.posts | group_by_exp: "post", "post.date | date: '%Y'" %}
+    {% for year in posts_by_year %}
+      <h2>{{ year.name }}</h2>
+      {% for post in year.items %}
+        <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+      {% endfor %}
     {% endfor %}
   </ul>
 </div>
