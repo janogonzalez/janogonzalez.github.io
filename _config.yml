@@ -1,4 +1,8 @@
 name: Jano González
+description: Programmer, musician and conference speaker.
+author:
+  name: Jano González
 markdown: kramdown
-gems:
+plugins:
   - jekyll-sitemap
+  - jekyll-feed
