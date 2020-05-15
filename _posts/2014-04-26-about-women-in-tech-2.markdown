@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "About women in tech 2"
+title: About women in tech 2
+description: Second part of my opinion about women in tech issues
 date: 2014-04-26 20:00:00
 tags: thoughts
 ---

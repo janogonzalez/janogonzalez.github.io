@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Conference speaking HOW-TO"
+title: Conference speaking HOW-TO
+description: Some advice for talking in conferences
 date: 2013-12-02 17:30:00
 tags: thoughts
 ---

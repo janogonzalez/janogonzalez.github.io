@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "The programmer and the stone statue"
+title: The programmer and the stone statue
+description: A koan about getting your work recognized
 date: 2013-12-27 16:30:00
 tags: koans
 ---

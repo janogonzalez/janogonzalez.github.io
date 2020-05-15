@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "TDD and the True Path"
+title: TDD and the True Path
+description: A koan about the one true way to program
 date: 2014-05-02 21:00:00
 tags: koans
 ---

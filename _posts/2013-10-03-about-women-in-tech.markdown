@@ -1,7 +1,8 @@
 ---
 layout: post
-title:  "About women in tech"
-date:   2013-10-03 10:30:00
+title: About women in tech
+description: My opinion about women in tech issues
+date: 2013-10-03 10:30:00
 tags: thoughts
 ---
 

@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Why I use Vim"
+title: Why I use Vim
+description: The real reason why I use this editor
 date: 2013-11-19 21:00:00
 tags: thoughts
 ---
