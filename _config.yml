@@ -3,6 +3,7 @@ description: Programmer, musician and conference speaker.
 author:
   name: Jano González
 markdown: kramdown
+permalink: pretty
 plugins:
   - jekyll-sitemap
   - jekyll-feed
