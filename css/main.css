@@ -67,17 +67,17 @@ header {
   padding-bottom: 0.5em;
 }
 
-header a {
+header span a {
   font-weight: bold;
   text-decoration: none;
 }
 
-header a.extra {
+header span a.extra {
   margin-left: 1em;
   color: #888;
 }
 
-header a:hover {
+header span a:hover {
   color: #444;
 }
 
@@ -85,6 +85,21 @@ header span.title {
   font-size: 160%;
   display: inline-block;
   font-family: "Lucida Grande", "Lucida Sans Unicode", "Bitstream Vera Sans",sans-serif;
+}
+
+nav {
+  float: right;
+}
+
+@media screen and (max-width: 640px) {
+  nav {
+    float: none;
+  }
+}
+
+nav a {
+  font-size: 90%;
+  text-decoration: none;
 }
 
 .site .meta {
