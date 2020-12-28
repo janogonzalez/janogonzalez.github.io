@@ -40,16 +40,17 @@ table {
   width: 95%;
   max-width: 33em;
   margin: 1em auto 1em;
-  line-height: 1.4em;
-}
-
-.site li {
   line-height: 1.5em;
 }
 
 ul {
   list-style-position: inside;
 }
+
+ul, ol {
+  margin-left: 1.35em;
+}
+
 
 ul p {
   margin: 0;
@@ -65,11 +66,6 @@ header {
 header span a {
   font-weight: bold;
   text-decoration: none;
-}
-
-header span a.extra {
-  margin-left: 1em;
-  color: #888;
 }
 
 header span a:hover {
@@ -97,8 +93,9 @@ nav a {
   text-decoration: none;
 }
 
-.site .meta {
+.meta {
   color: #666;
+  margin: 0;
 }
 
 footer {
@@ -111,73 +108,61 @@ footer {
 
 /* Posts */
 
-#post {
-  padding-top: 0.5em;
+#main {
+  padding: 0.5em 0;
 }
 
-#post h1, #main h1 {
+h1 {
   font-size: 205%;
   margin-bottom: 0.3em;
   line-height: 1em;
 }
 
-#post h2, #main h2 {
+h2 {
   font-size: 165%;
   margin: 0.7em 0 0.5em 0;
   line-height: 1em;
 }
 
-#post h3 {
+h3 {
   font-size: 145%;
   margin-bottom: 0.3em;
   line-height: 1em;
 }
 
-#post p {
-  line-height: 1.5em;
-}
+/* Code */
 
-#post .meta {
-  margin: 0;
-}
-
-/* Standard */
-
-#post pre {
+pre {
   border: 1px solid #ddd;
   background-color: #eef;
-  padding: 0 .4em;
+  padding: 0.4em;
+  line-height: 1.1em;
 }
 
-#post ul, #post ol {
-  margin-left: 1.35em;
-}
-
-#post code {
+code {
   border: 1px solid #ddd;
   background-color: #eef;
   padding: 0 .2em;
 }
 
-#post pre code {
+pre code {
   border: none;
 }
 
 /* Terminal */
 
-#post pre.terminal {
+pre.terminal {
   border: 1px solid #000;
   background-color: #444;
   color: #FFF;
 }
 
-#post pre.terminal code {
+pre.terminal code {
   background-color: #333;
 }
 
 /* Syntax highlighting */
 
-.highlight  { background: #ffffff; }
 .highlight .c { color: #999988; font-style: italic } /* Comment */
 .highlight .err { color: #a61717; background-color: #e3d2d2 } /* Error */
 .highlight .k { font-weight: bold } /* Keyword */
