@@ -32,22 +32,6 @@ table {
   font: 100%;
 }
 
-/* Home */
-
-ul.posts {
-  list-style-type: none;
-}
-
-ul.posts li {
-  line-height: 1.55em;
-}
-
-ul.posts span {
-  display: inline-block;
-  width: 120px;
-  color: #666;
-}
-
 /* Site */
 
 .site {
@@ -59,7 +43,17 @@ ul.posts span {
   line-height: 1.4em;
 }
 
-.site li { line-height: 1.5em; }
+.site li {
+  line-height: 1.5em;
+}
+
+.site ul {
+  list-style-type: none;
+}
+
+ul p {
+  margin: 0;
+}
 
 header {
   border-bottom: 1px dotted #ddd;
