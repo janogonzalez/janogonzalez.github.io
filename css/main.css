@@ -47,12 +47,13 @@ table {
   line-height: 1.5em;
 }
 
-.site ul {
-  list-style-type: none;
+ul {
+  list-style-position: inside;
 }
 
 ul p {
   margin: 0;
+  display: inline;
 }
 
 header {
@@ -120,8 +121,8 @@ footer {
   line-height: 1em;
 }
 
-#post h2 {
-  font-size: 175%;
+#post h2, #main h2 {
+  font-size: 165%;
   margin: 0.7em 0 0.5em 0;
   line-height: 1em;
 }
