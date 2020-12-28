@@ -2,17 +2,14 @@
 layout: default
 title: Posts
 ---
+<h1>Posts</h1>
 
-<div id="main">
-  <h1>Posts</h1>
-
-  <ul class="posts">
-    {% assign posts_by_year = site.posts | group_by_exp: "post", "post.date | date: '%Y'" %}
-    {% for year in posts_by_year %}
-      <h2>{{ year.name }}</h2>
-      {% for post in year.items %}
-        <li><a href="{{ post.url }}">{{ post.title }}</a></li>
-      {% endfor %}
+<ul class="posts">
+  {% assign posts_by_year = site.posts | group_by_exp: "post", "post.date | date: '%Y'" %}
+  {% for year in posts_by_year %}
+    <h2>{{ year.name }}</h2>
+    {% for post in year.items %}
+      <li><a href="{{ post.url }}">{{ post.title }}</a></li>
     {% endfor %}
-  </ul>
-</div>
+  {% endfor %}
+</ul>
