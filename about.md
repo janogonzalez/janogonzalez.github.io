@@ -2,7 +2,7 @@
 layout: default
 title: About
 ---
-Hi! I'm Jano, a Site Reliability Engineer based in Berlin.
+Hi! I'm Jano, a Senior Software Engineer based in Berlin.
 
 I work as a Staff Engineer for the Reliability team in
 [Contentful][contentful].

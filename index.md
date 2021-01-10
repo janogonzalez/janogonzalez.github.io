@@ -2,7 +2,7 @@
 layout: default
 title: Jano González
 ---
-I'm a Site Reliability Engineer based in Berlin.
+I'm a Senior Software Engineer based in Berlin.
 
 I write [code][code], play [music][music] and give [conference talks](/talks).
 
