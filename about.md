@@ -11,9 +11,13 @@ Previously, I was breaking down [SoundCloud][soundcloud]'s monolith into
 microservices. Before that, I was the CTO for a small startup and also spent
 many years creating middleware for banks and retail.
 
-I also make [music][music]. In the last few years I've focused on synths,
-specially modular ones.
+I enjoy mentoring and [public speaking](/talks). My last talk was in
+[LISA 2020][lisa].
+
+I also make [music][music]. In the last few years my focus has shifted to
+modular synths.
 
 [contentful]: https://contentful.com
 [soundcloud]: https://soundcloud.com
+[lisa]: https://www.usenix.org/conference/lisa19/presentation/gonzalez
 [music]: https://soundcloud.com/janogonzalez
