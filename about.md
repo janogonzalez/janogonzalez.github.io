@@ -4,7 +4,9 @@ title: About
 ---
 Hi! I'm Jano, a Senior Software Engineer based in Berlin.
 
-I work as a Staff Engineer for [Contentful][contentful].
+I'm on a summer break and I'll be looking for a new job soon.
+
+My last gig was as a Staff Engineer for [Contentful][contentful].
 
 Previously, I was breaking down [SoundCloud][soundcloud]'s monolith into
 microservices. Before that, I was the CTO for a small startup and also spent
