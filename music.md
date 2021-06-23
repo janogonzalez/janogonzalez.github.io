@@ -7,15 +7,16 @@ title: Music
 ## Velvet System 82
 
 This Synthwave solo act is my most successful musical project so far. The
-singles are available in all major platforms like [SoundCloud
-][soundcloud-velvet], [Spotify][spotify-velvet], [Apple Music][apple-velvet],
-[Bandcamp][bandcamp-velvet] and [YouTube][youtube-velvet].
+singles are available in all major platforms like
+[SoundCloud][soundcloud-velvet], [Spotify][spotify-velvet],
+[Apple Music][apple-velvet], [Bandcamp][bandcamp-velvet] and
+[YouTube][youtube-velvet].
 
 ## PagerAlert
 
-Electronic music performed live. Sometimes I stream on [Twitch
-][twitch-pageralert] and I've uploaded some performances to [YouTube
-][youtube-pageralert] and [SoundCloud][soundcloud-pageralert].
+Electronic music performed live. Sometimes I stream on
+[Twitch][twitch-pageralert] and I've uploaded some performances to
+[YouTube][youtube-pageralert] and [SoundCloud][soundcloud-pageralert].
 
 ## Jano González
 
