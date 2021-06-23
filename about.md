@@ -13,7 +13,7 @@ microservices. Before that, I was the CTO for a small startup and also spent
 many years creating middleware for banks and retail.
 
 I enjoy mentoring and [public speaking](/talks). My last talk was in
-[LISA 2020][lisa].
+[LISA 2019][lisa].
 
 I also enjoy making [music][music].
 
