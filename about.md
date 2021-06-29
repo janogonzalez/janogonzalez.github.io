@@ -2,20 +2,19 @@
 layout: default
 title: About
 ---
-Hi! I'm Jano, a Senior Software Engineer based in Berlin.
+# Hi!
 
-I'm on a summer break and I'll be looking for a new job soon.
+I'm Jano González, a Senior Software Engineer with over 15 years experience.
 
-My last gig was as a Staff Engineer for [Contentful][contentful].
-
-Previously, I was breaking down [SoundCloud][soundcloud]'s monolith into
-microservices. Before that, I was the CTO for a small startup and also spent
-many years creating middleware for banks and retail.
+My last gig was as a Staff Engineer for [Contentful][contentful] and previously
+I was breaking down [SoundCloud][soundcloud]'s monolith into microservices.
+Before that, I was the CTO for a small startup, spent many years writing
+middleware for banks and retail and led engineering teams.
 
 I enjoy mentoring and [public speaking](/talks). My last talk was in
 [LISA 2019][lisa].
 
-I also enjoy making [music][music].
+In my free time I make [music][music].
 
 [contentful]: https://contentful.com
 [soundcloud]: https://soundcloud.com
