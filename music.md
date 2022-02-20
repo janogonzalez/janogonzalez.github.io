@@ -6,29 +6,29 @@ title: Music
 
 ## Velvet System 82
 
-This Synthwave solo act is my most successful musical project so far. The
-singles are available in all major platforms like
+A Synthwave act. With over 20K plays, this is my most successful musical
+project so far. Songs available on all major platforms:
 [SoundCloud][soundcloud-velvet], [Spotify][spotify-velvet],
 [Apple Music][apple-velvet], [Bandcamp][bandcamp-velvet] and
 [YouTube][youtube-velvet].
 
 ## PagerAlert
 
-Electronic music performed live. Sometimes I stream on
-[Twitch][twitch-pageralert] and I've uploaded some performances to
+Live Electronic Music. There's a [Twitch][twitch-pageralert] for ocassional
+streams. I've uploaded some performances to
 [YouTube][youtube-pageralert] and [SoundCloud][soundcloud-pageralert].
 
 ## Jano González
 
-I also play old-school instrumental rock under my own name. You can find the
-songs on [SoundCloud][soundcloud-janogonzalez].
+Old-school Instrumental and Rock under my own name. Songs available on
+[soundcloud][soundcloud-janogonzalez].
 
 [soundcloud-velvet]: https://soundcloud.com/velvetsystem82
-[spotify-velvet]: https://open.spotify.com/artist/0nxKUWB44Z92DtwfhluQrI
+[spotify-velvet]: https://open.spotify.com/artist/0nxkuwb44z92dtwfhluqri
 [apple-velvet]: https://music.apple.com/artist/velvet-system-82/1440233254
 [bandcamp-velvet]: https://velvetsystem82.bandcamp.com
-[youtube-velvet]: https://www.youtube.com/channel/UC9W57hOno9q-GTBm_p-UrWg
+[youtube-velvet]: https://www.youtube.com/channel/uc9w57hono9q-gtbm_p-urwg
 [twitch-pageralert]: https://www.twitch.tv/pageralert
-[youtube-pageralert]: https://www.youtube.com/channel/UCjUGRxzlbBz4bC5B7atzDyw
+[youtube-pageralert]: https://www.youtube.com/channel/ucjugrxzlbbz4bc5b7atzdyw
 [soundcloud-pageralert]: https://soundcloud.com/pageralert
 [soundcloud-janogonzalez]: https://soundcloud.com/janogonzalez
