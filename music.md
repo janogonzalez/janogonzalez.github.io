@@ -14,14 +14,14 @@ project so far. Songs available on all major platforms:
 
 ## PagerAlert
 
-Live Electronic Music. There's a [Twitch][twitch-pageralert] for ocassional
-streams. I've uploaded some performances to
+Live Electronic Music. There's a [Twitch][twitch-pageralert] channel for
+ocassional streams. I've uploaded some performances to
 [YouTube][youtube-pageralert] and [SoundCloud][soundcloud-pageralert].
 
 ## Jano González
 
-Old-school Instrumental and Rock under my own name. Songs available on
-[soundcloud][soundcloud-janogonzalez].
+Old-school Instrumental and Surf Rock. Songs available on
+[SoundCloud][soundcloud-janogonzalez].
 
 [soundcloud-velvet]: https://soundcloud.com/velvetsystem82
 [spotify-velvet]: https://open.spotify.com/artist/0nxkuwb44z92dtwfhluqri
