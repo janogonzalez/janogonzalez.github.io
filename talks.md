@@ -8,6 +8,6 @@ title: Talks
 {% for year in talks_by_year %}
 ## {{ year.name }}
   {% for talk in year.items %}
-  - {{talk.title}} - {{ talk.conference }} ([slides]({{ talk.slides }}))
+  - {{talk.title}} - {{ talk.conference }} ([slides]({{ talk.slides }}){% if talk.video %}, [video]({{ talk.video}}){% endif %})
   {% endfor %}
 {% endfor %}

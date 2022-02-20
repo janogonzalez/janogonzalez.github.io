@@ -1,5 +1,5 @@
-year,conference,title,slides
-2019,LISA,Containerizing your monolith,https://speakerdeck.com/janogonzalez/containerizing-your-monolith
+year,conference,title,slides,video
+2019,LISA,Containerizing your monolith,https://speakerdeck.com/janogonzalez/containerizing-your-monolith,https://www.youtube.com/watch?v=o2iqu797IWc
 2019,CodeÑuble,Migrando a microservicios,https://speakerdeck.com/janogonzalez/migrando-a-microservicios
 2015,StarTechConf,"¿Después de 10 años, realmente entiendo esta industria?",https://speakerdeck.com/janogonzalez/despues-de-10-anos-realmente-entiendo-esta-industria
 2014,RubyConf Argentina,Microservices in practice,https://speakerdeck.com/janogonzalez/microservices-in-practice
