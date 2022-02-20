@@ -24,11 +24,11 @@ Old-school Instrumental and Surf Rock. Songs available on
 [SoundCloud][soundcloud-janogonzalez].
 
 [soundcloud-velvet]: https://soundcloud.com/velvetsystem82
-[spotify-velvet]: https://open.spotify.com/artist/0nxkuwb44z92dtwfhluqri
+[spotify-velvet]: https://open.spotify.com/artist/0nxKUWB44Z92DtwfhluQrI
 [apple-velvet]: https://music.apple.com/artist/velvet-system-82/1440233254
 [bandcamp-velvet]: https://velvetsystem82.bandcamp.com
-[youtube-velvet]: https://www.youtube.com/channel/uc9w57hono9q-gtbm_p-urwg
+[youtube-velvet]: https://www.youtube.com/channel/UC9W57hOno9q-GTBm_p-UrWg
 [twitch-pageralert]: https://www.twitch.tv/pageralert
-[youtube-pageralert]: https://www.youtube.com/channel/ucjugrxzlbbz4bc5b7atzdyw
+[youtube-pageralert]: https://www.youtube.com/channel/UCjUGRxzlbBz4bC5B7atzDyw
 [soundcloud-pageralert]: https://soundcloud.com/pageralert
 [soundcloud-janogonzalez]: https://soundcloud.com/janogonzalez
