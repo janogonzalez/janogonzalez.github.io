@@ -7,9 +7,8 @@ title: About
 I’m Jano González, a software engineer with over 15 years experience based in
 Berlin, Germany.
 
-I currently work at [Shopify][shopify] as a staff engineer. Before that, I
-worked at [Contentful][contentful], [SoundCloud][soundcloud] and
-[other companies][resume].
+I've worked at [Shopify][shopify], [Contentful][contentful],
+[SoundCloud][soundcloud] and [other companies][resume].
 
 Sometimes, I give [conference talks](/talks). The last one was in
 [LISA 2019][lisa].
