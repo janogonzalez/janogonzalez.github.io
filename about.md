@@ -7,7 +7,7 @@ title: About
 I’m Jano González, a software engineer with over 15 years experience based in
 Berlin, Germany.
 
-I'm currently working as a Staff Software Engineer at [Spotify](spotify).
+I'm currently working as a Staff Software Engineer at [Spotify][spotify].
 Before, I've worked at [Shopify][shopify], [Contentful][contentful],
 [SoundCloud][soundcloud] and [other companies][resume].
 
