@@ -18,10 +18,10 @@ body {
 h1, h2, h3, h4, h5, h6 {
   color: #333;
   font-size: 100%;
-  font-family: "Lucida Grande", "Lucida Sans Unicode", "Bitstream Vera Sans", sans-serif;
+  font-family: system-ui, "Lucida Grande", "Lucida Sans Unicode", "Bitstream Vera Sans", sans-serif;
 }
 
-p { margin: 0.7em 0; }
+p { margin: 1em 0; }
 
 a:link { color: #ee106f; }
 a:visited { color: #ee106f; }
@@ -76,7 +76,7 @@ header span a:hover {
 header span.title {
   font-size: 160%;
   display: inline-block;
-  font-family: "Lucida Grande", "Lucida Sans Unicode", "Bitstream Vera Sans",sans-serif;
+  font-family: "Lucida Grande", "Lucida Sans Unicode", "Bitstream Vera Sans", sans-serif;
 }
 
 nav {
@@ -114,19 +114,21 @@ footer {
 }
 
 h1 {
-  font-size: 205%;
+  font-size: 255%;
   margin-bottom: 0.3em;
   line-height: 1em;
 }
 
 h2 {
   font-size: 155%;
+  color: #444;
   margin: 0.7em 0 0.5em 0;
   line-height: 1em;
 }
 
 h3 {
   font-size: 145%;
+  color: #444;
   margin-bottom: 0.3em;
   line-height: 1em;
 }
