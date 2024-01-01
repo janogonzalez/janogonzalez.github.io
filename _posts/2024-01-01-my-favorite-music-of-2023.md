@@ -16,7 +16,7 @@ The selection criteria is simple:
 
 ## Bestial Devastation / Morbid Visions - Cavalera Conspiracy
 
-Classic Southamerican Metal aggression refined for the 21th century. Max and
+Classic South American Metal aggression refined for the 21th century. Max and
 Iggor Cavalera re-record the first 2 Sepultura releases, Bestial Devastation
 from 1985 and Morbid Visions from 1986.
 
