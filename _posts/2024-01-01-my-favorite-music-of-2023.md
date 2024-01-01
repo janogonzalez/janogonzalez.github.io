@@ -10,7 +10,7 @@ These are some of my favorite albums and singles of last year.
 
 The selection criteria is simple:
 
-- Released on 2023
+- Released in 2023
 - Saved as a favorite
 - Listened to at least a few times
 
