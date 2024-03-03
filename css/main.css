@@ -10,9 +10,12 @@ html, body { height: 100%; }
 body {
   background-color: #fffffa;
   color: #444;
-  font: 18px "Georgia", "Times New Roman", serif;
-  font-size: small;
-  text-align: center;
+  font: 20px "Georgia", "Times New Roman", serif;
+  max-width: 33em;
+  text-align: left;
+  width: 95%;
+  margin: 1em auto 1em;
+  line-height: 1.5em;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -35,15 +38,6 @@ table {
 
 /* Site */
 
-.site {
-  font-size: 155%;
-  text-align: left;
-  width: 95%;
-  max-width: 33em;
-  margin: 1em auto 1em;
-  line-height: 1.5em;
-}
-
 ul {
   list-style-position: inside;
 }
@@ -51,7 +45,6 @@ ul {
 ul, ol {
   margin-left: 1.35em;
 }
-
 
 ul p {
   margin: 0;
@@ -107,9 +100,7 @@ footer {
   overflow: hidden;
 }
 
-/* Posts */
-
-#main {
+main {
   padding: 0.5em 0;
 }
 
