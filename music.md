@@ -15,7 +15,7 @@ project so far. Songs available on all major platforms:
 ## PagerAlert
 
 Live Electronic Music. There's a [Twitch][twitch-pageralert] channel for
-ocassional streams. I've uploaded some performances to
+occasional streams. I've uploaded some performances to
 [YouTube][youtube-pageralert] and [SoundCloud][soundcloud-pageralert].
 
 ## Jano González
