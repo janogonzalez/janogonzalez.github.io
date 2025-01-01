@@ -14,7 +14,7 @@ The selection criteria is simple:
 - Saved as a favorite
 - Listened to at least a few times
 
-## Bestial Devastation / Morbid Visions - Cavalera Conspiracy
+## Bestial Devastation / Morbid Visions - Cavalera
 
 Classic South American Metal aggression refined for the 21th century. Max and
 Iggor Cavalera re-record the first 2 Sepultura releases, Bestial Devastation
@@ -28,7 +28,7 @@ over-compressed sound of modern Metal.
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/2ZHqbNI33ZdAaw2i4Jdv1U?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-## Get Up - New Jeans
+## Get Up - NewJeans
 
 One of my first contacts with K-Pop. A short and sweet pop EP with catchy songs
 around the two minutes mark. You can find in it influences from Drum & Bass,
