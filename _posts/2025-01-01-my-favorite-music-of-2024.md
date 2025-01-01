@@ -57,9 +57,14 @@ Great debut EP with dreamy teenage Pop songs. Magnetic is the earworm of 2024.
 
 ### The Last Dinner Party - Prelude to Ectasy
 
+Almost my favorite album of 2024. It has elements of previous decades but still
+sounds fresh.
+
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/1ycq58KRtWt3wFtbuIkvLn?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 ### Nia Archives - Silence is Loud
+
+Songs that can work well in both the dancefloor and the living room.
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/7aIsJRcf04ZeFiU1Fa70Cq?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
