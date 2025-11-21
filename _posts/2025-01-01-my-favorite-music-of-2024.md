@@ -18,7 +18,7 @@ The selection criteria is similar to [last year][last-year]:
 
 ### ARTMS - \<Dall\>
 
-My favorite K-Pop full album from 2024. I liked all songs but Birth needs a
+My favorite K-Pop full album from 2024. I liked all songs but Birth deserves a
 special mention.
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/0hJloArA2Kb9xNBIv34osS?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
