@@ -4,7 +4,7 @@ title: About
 ---
 # Hi!
 
-I’m Jano González, a software engineer with over 15 years experience based in
+I’m Jano González, a software engineer with over 20 years experience based in
 Berlin, Germany.
 
 I'm currently working as a Staff Software Engineer at [Spotify][spotify].
