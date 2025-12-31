@@ -59,24 +59,24 @@ enough to justify this album.
 
 ### Baddadan - Chase & Status ft. IRAH, Flowdan, Trigga & Takura
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/rkjNL4dX-U4?si=drFyl0K0iH1yDnfY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" loading="lazy" src="https://www.youtube-nocookie.com/embed/rkjNL4dX-U4?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" loading="lazy" allowfullscreen></iframe>
 
 ### In a room7 F760 - Aphex Twin
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/gTBirmyzUbU?si=VamkyCu1onSVMQGM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" loading="lazy" src="https://www.youtube-nocookie.com/embed/gTBirmyzUbU?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ### 今年こそギャル〜初夏ver.〜(Be the GAL~Early Summer ver.~) - HANABIE.
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/hTuPwVYHc_M?si=id5Nj4lxCVVW_nRq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" loading="lazy" src="https://www.youtube-nocookie.com/embed/hTuPwVYHc_M?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ### PILGRIMAGE TO OBLIVION - Ihsahn
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/1WDCrgpKXaE?si=2lwVMWugMV-af9qx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" loading="lazy" src="https://www.youtube-nocookie.com/embed/1WDCrgpKXaE?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ### Do Hot Girls Like Chords? - KNOWER
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Ois3gfcwKSA?si=V2g0I27BNEAIYDBg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" loading="lazy" src="https://www.youtube-nocookie.com/embed/Ois3gfcwKSA?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ### Dreamin' - YonYon ft. SUMIN
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/4fGlmCqyjec?si=5IWQYc6brGdxFijO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" loading="lazy" src="https://www.youtube-nocookie.com/embed/4fGlmCqyjec?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
