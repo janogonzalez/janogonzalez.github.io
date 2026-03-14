@@ -55,6 +55,10 @@ ul p {
   display: inline;
 }
 
+li + li {
+  padding-top: 0.4em;
+}
+
 header {
   border-bottom: 1px dotted #ddd;
   margin-bottom: 0.5em;
