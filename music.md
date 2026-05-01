@@ -6,8 +6,8 @@ title: Music
 
 ## Velvet System 82
 
-A Synthwave act. With over 50K plays, this is my most successful musical
-project so far. Songs available on all major platforms:
+A Synthwave act. With 57K+ streams across multiple platforms, this is my most
+successful musical project so far. Songs available on all major platforms:
 [SoundCloud][soundcloud-velvet], [Spotify][spotify-velvet],
 [Apple Music][apple-velvet], [Bandcamp][bandcamp-velvet] and
 [YouTube][youtube-velvet].
