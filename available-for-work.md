@@ -27,6 +27,9 @@ I'm a non-EU citizen so I need visa sponsorship for Spain.
 I can work both on-site and remote. My top choice for a city is Málaga but I'm
 also considering relocating to Madrid, Barcelona or Valencia.
 
+There are a few industries where I prefer not to work: AI Companionship,
+AI Generated Music, Blockchain/Crypto, Defense, Gambling.
+
 ## Contact
 
 I would love to hear from you if my background is a good fit for your company.
