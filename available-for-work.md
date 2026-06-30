@@ -2,7 +2,9 @@
 layout: default
 title: Available for work!
 ---
-# I'm now available for work!
+# ~~I'm now available for work!~~
+
+**EDIT:** I'm closing my current cohort of job applications.
 
 I'm looking for a Senior/Staff+ Software Engineer role in Spain.
 

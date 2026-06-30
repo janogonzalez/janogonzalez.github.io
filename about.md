@@ -4,8 +4,7 @@ title: About
 ---
 # Hi!
 
-I’m Jano González, a software engineer with over 20 years experience [looking
-for a job in Spain](/available-for-work).
+I’m Jano González, a software engineer with over 20 years experience.
 
 My last gig was as a Staff Software Engineer at [Spotify][spotify].
 Before, I've worked at [Shopify][shopify], [Contentful][contentful],
