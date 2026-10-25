@@ -2,7 +2,7 @@
 layout: default
 title: Jano González
 ---
-I'm a software engineer based in Berlin, Germany.
+I'm a software engineer based in Málaga, Spain.
 
 I write [code][code], play [music](/music) and give [conference talks](/talks).
 
